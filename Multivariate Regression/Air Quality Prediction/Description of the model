@@ -1,0 +1,13 @@
+Challenge - Air Pollution
+Predicting Pollution Levels using Machine Learning
+The air samples of different locations is collected and then five features of the air are extracted which can be used to predict the air quality index.
+Design a machine learning model in which the given features extracted can predict air quality. 
+Data collected is provided.
+
+Data consist of three csv files :-
+1.	Train.csv
+2.	Testcsv
+3.	result.csv
+Train:- The train data consists of five feature columns and one target column.All the feature columns are numeric and target value is also numeric.
+Test:- test data consist all the columns contained by train with the the exception of target column which u have to predict using the model trained on train data.
+result:- this file shows how your submission file must look like it consist of two columns one is id that is nothing but index and other is target which is the value predicted by your model.
